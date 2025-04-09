@@ -13,7 +13,7 @@ $thisfile=basename(__FILE__, ".php");
 # register plugin
 register_plugin(
 	$thisfile,
-	'Cumbe_cookies',
+	'CB Cookies',
 	'1.3.1',
 	'Cumbe',
 	'http://www.cumbe.es/',
